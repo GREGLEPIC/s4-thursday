@@ -1,24 +1,9 @@
-# README
+# README of Gossip for THP's project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## My name is Greg Rouxel Oldrà and i m doing a coding project to learn how to : 
 
-Things you may want to cover:
+- create (initialize) a rails architecture
+- generate a model with table
+- link the tables to the models, so the BDD will work perfectly fine :) 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Thanks. 
